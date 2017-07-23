@@ -1,0 +1,21 @@
+.footer-content {
+  background: #1381cc;
+  height: 50px;
+  margin-top: -50px; }
+
+html,body,#root {
+	height: 100%;
+	margin:0;
+	padding:0;
+}.page-content {
+  text-align: center;
+  height: 100%;
+  background: #CCC; }
+  .page-content .wrap {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    min-height: 100%;
+    padding-bottom: 50px; }
+    .page-content .wrap .main-content {
+      font-size: 24px; }
